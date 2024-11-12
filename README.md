@@ -1,48 +1,56 @@
 # gestion-projet-rabatel
 
-## Gestion de projet
+# Gestion de projet
 
-### 1.1 Démarrer un projet
+## 1.1 Démarrer un projet
 
-> Enjeux
+### Enjeux
 
 motivations ?
 critères de réussite ?
 
 éviter risque échec !
 
-> Plus :
+### Plus :
 
 Jour homme : 20 jh = 10 jours si 2 développeurs
 
-### 1.2 Élaborer le projet
+## 1.2 Élaborer le projet
 
-> Dimensionner le projet
+### Dimensionner le projet
 
 prévoir quel ressources / sur quel duré / sur quel tâche
 
 materiel : ordi / serveur / logiciels / licences logiciel
 
-> Constitution de l'équipe
+### Constitution de l'équipe
 
 chef de projet obligatoire
 
-> Déclencher le projet
+### Déclencher le projet
 
 chef de projet
 calendrier du projet
 coût du projet
 
-> Plus :
+### Plus :
 
 SAAS : Software as a Service
 
 ### 1.3 L'apport de la conduite de projet (gestion de projet)
 
-> Utilité de la gestion de projet ?
+### Utilité de la gestion de projet ?
 
 Economiser les ressources (temps, argent)
 
-### 2.1 Les aspects financiers
+## 2 Les aspects financiers
 
->
+### 2.1 Le coût du projet
+
+### Plus :
+
+Coût développeur 2000€/mois
+Coût développeur pour l'entreprise = 2000€/mois + charges sociales
+salaires negociables
+
+startegique = enjeux
