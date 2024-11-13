@@ -102,7 +102,8 @@
 - Problème : Bug et instabilité de l'application :
   - Solution : Demande d'un accées "extranet" a un environement de test
   - **Pertinence** : Cette solution permet de tester l'application dans un environnement isolé avant la mise en production. Cela réduit les risques de bugs en production.
--
+- Non-adhésion des utilisateurs :
+  - Solution :
 -
 
 #### Actions conplémentaires
