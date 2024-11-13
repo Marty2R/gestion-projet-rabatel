@@ -277,3 +277,83 @@ salaires negociables
 - Debut pas les parties complèxes
 - Phases de stabilisation
 - Phase d'industrialisation
+
+## Le modèle de pilotage
+
+### Le comité de pilotage :
+
+#### Composition :
+
+- Chef de projet
+- Représentent de comoté de direction
+- Partenaires
+- Clients
+
+### Les sources d'informations :
+
+#### Canaux formels :
+
+- Etats d'anomalies (bug traking)
+- Etat de charge des equipes
+- Remontées des utilisateurs
+- Plannings
+
+#### canaux formels
+
+- Réunions de suivi
+- Echanges d'expericences
+- Clubs utilisateurs
+
+### Les indicateurs clés (KPI) :
+
+#### 1. Planning :
+
+- Ecarts prévisionnel/réalisé
+- Chemin critique
+- Niveau de charge équipe
+
+#### 2. Qualité :
+
+- Nombre d'annomalies
+- Temps de traitement
+- Balance âgès
+
+#### 3. Roadmap :
+
+- Préimètre fonctionnel
+- Respect architectures
+- Jalons clés
+
+#### 4. Finances :
+
+- Buisness case
+- Budget
+- Investissement
+
+#### 5. Equipe :
+
+- Niveau sous-traitance
+- Motivation
+- Qualifications
+- Aquisition savoir-faire
+
+#### 6. Risque :
+
+- Niveau de risque
+- Probabilité d'occurrence
+- Impact potentiel
+- Suivi des actions
+
+#### Resumé :
+
+- Turnover
+- Compétences
+- Motivation
+
+Les KPI (Key Performance Indicators) sont des indicateurs essentiels qui permettent de mesurer la performance du projet selon 5 axes principaux :
+
+1. Planning : Suivi des écarts et de la charge de travail
+2. Qualité : Mesure des anomalies et de leur résolution
+3. Roadmap : Contrôle du périmètre et des jalons
+4. Finances : Suivi budgétaire et retour sur investissement
+5. Equipe : Evaluation des ressources humaines et de leur engagement
