@@ -357,3 +357,160 @@ Les KPI (Key Performance Indicators) sont des indicateurs essentiels qui permett
 3. Roadmap : Contrôle du périmètre et des jalons
 4. Finances : Suivi budgétaire et retour sur investissement
 5. Equipe : Evaluation des ressources humaines et de leur engagement
+
+## Model en cascade (waterfall)
+
+### Métaphore
+
+- Progression vers l'avant
+- Retour en arrière tres couteux
+
+### Description
+
+Le modèle en cascade (waterfall) est une approche séquentielle et linéaire de gestion de projet où chaque phase doit être complétée avant de passer à la suivante :
+
+1. Analyse des besoins
+
+   - Recueil et documentation des exigences
+   - Validation par le client
+
+2. Conception
+
+   - Architecture du système
+   - Spécifications détaillées
+
+3. Implémentation
+
+   - Développement du code
+   - Tests unitaires
+
+4. Vérification
+
+   - Tests d'intégration
+   - Tests système
+   - Tests d'acceptation
+
+5. Maintenance
+   - Corrections de bugs
+   - Évolutions mineures
+
+### Avantages
+
+- Structure claire et simple à comprendre
+- Documentation complète à chaque étape
+- Facilite la planification et le suivi
+- Adapté aux projets stables et bien définis
+
+### Inconvénients
+
+- Peu flexible aux changements
+- Retours en arrière coûteux
+- Détection tardive des problèmes
+- Livraison du produit final tardive
+
+## Les bases de l'agilité
+
+### Contexte
+
+- Techno en évolution
+- Adaptation continue
+
+### Description
+
+La méthode Agile est une approche itérative et incrémentale de gestion de projet qui met l'accent sur :
+
+1. Les individus et leurs interactions plutôt que les processus et les outils
+2. Un logiciel fonctionnel plutôt qu'une documentation exhaustive
+3. La collaboration avec le client plutôt que la négociation contractuelle
+4. L'adaptation au changement plutôt que le suivi d'un plan
+
+Caractéristiques principales :
+
+- Cycles courts (sprints) de 2-4 semaines
+- Livraisons fréquentes de fonctionnalités
+- Communication directe et régulière avec le client
+- Auto-organisation des équipes
+- Amélioration continue du processus
+- Encourage l'experimentation
+- Apprendre de ces erreurs
+
+- Client au coeur du projet
+- Alignement avec les besoins di client
+
+### Avantages
+
+- Grande flexibilité et adaptabilité
+- Détection précoce des problèmes
+- Satisfaction client accrue
+- Meilleure qualité du produit final
+- Équipes plus motivées et productives
+
+### Inconvénients
+
+- Nécessite un engagement fort du client
+- Peut être difficile à mettre en place dans les grandes organisations
+- Demande une équipe expérimentée et autonome
+- Documentation parfois moins formelle
+
+## Nouveau rôle
+
+### Product owner / Manager
+
+- Vision produit
+- Interface avec le client
+- Priorisation des besoins
+
+### Scrum master
+
+- Facilliteur
+- Suppression des obstacles
+- Coach equipe
+- Garant de la methode
+
+### Product designer
+
+- Focus sur UX
+- Prototypage rapide
+- Principe KISS
+- Design intéractif
+
+### Résumé Product Designer
+
+Le Product Designer joue un rôle clé dans la conception du produit avec :
+
+- Focus sur l'expérience utilisateur (UX) pour créer des interfaces intuitives
+- Création rapide de prototypes pour tester et valider les concepts
+- Application du principe KISS (Keep It Simple, Stupid) pour maintenir la simplicité
+- Approche itérative du design permettant d'améliorer continuellement l'interface
+- Collaboration étroite avec l'équipe pour aligner design et fonctionnalités
+
+### Rôle du delivery manager
+
+- Automatisation des processes
+- Coordination des équipes
+- Résolution des blocages
+- Facilisation du déploiment
+
+### Méthodologie Scrum
+
+#### Principe
+
+- Cycles courts
+- Développement incrémental
+- Livraison progressive
+
+#### Backlog
+
+- User Story (US)
+- Technical Stories (TS)
+- Epics et Features
+- Story mapping
+- Gestion des bugs
+
+### Choix de la méthode
+
+- Scrum : Pour projet structuré en cycle
+- Kanban : Pour flux continu
+- Hybridation possible selon contexte
+- Focus sur les valeurs client
+- Amelioration continu
