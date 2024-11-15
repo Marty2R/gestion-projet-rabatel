@@ -6,6 +6,23 @@
 
 ### Enjeux
 
+Les enjeux d'un projet représentent ce qui est "en jeu", c'est-à-dire ce que l'on peut gagner ou perdre dans sa réalisation. Ce sont les objectifs stratégiques et les résultats attendus qui justifient l'investissement dans le projet.
+
+Les enjeux peuvent être :
+
+- Financiers (rentabilité, parts de marché)
+- Organisationnels (amélioration des processus)
+- Techniques (modernisation des outils)
+- Humains (conditions de travail, compétences)
+- Stratégiques (positionnement sur le marché)
+
+L'identification claire des enjeux est essentielle pour :
+
+- Définir les priorités du projet
+- Mobiliser les ressources nécessaires
+- Évaluer les risques
+- Mesurer le succès du projet
+
 motivations ?
 critères de réussite ?
 
